@@ -1,6 +1,9 @@
 💫 Hi 👋, I'm Gyan Prakash Patel<br>
 A passionate Data Scientist Engineer || AI/ML Engineer || LLM Models<br>
 
+<img align="right" img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/93875527-1e0f-4822-83ed-4363236aca69" />
+
+
 Email Me 👉 ✉️ gyan.300012824060@csvtu.ac.in For Collaboration/Project or Anything Else. 😊😊<br>
 
 🔭 I’m currently working on: ChatGPT(LLM) Project<br>
