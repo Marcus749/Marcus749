@@ -1,7 +1,11 @@
 💫 Hi 👋, I'm Gyan Prakash Patel<br>
 A passionate Data Scientist Engineer || AI/ML Engineer || LLM Models<br>
 
-<img align="right" img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/93875527-1e0f-4822-83ed-4363236aca69" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Marcus749's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 
 Email Me 👉 ✉️ gyan.300012824060@csvtu.ac.in For Collaboration/Project or Anything Else. 😊😊<br>
